@@ -1,0 +1,3 @@
+#Fri Jan 07 16:04:53 CET 2011
+eclipse.preferences.version=1
+environment/project/de.innot.avreclipse.configuration.app.release.2004408699=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\n<environment append\="true" appendContributed\="true">\n<variable delimiter\="\:" name\="AVRDUDEOPTIONS" operation\="replace" value\="-pm1280"/>\n<variable delimiter\="\:" name\="AVRTARGETMCU" operation\="replace" value\="atmega1280"/>\n</environment>\n

@@ -1,0 +1,1373 @@
+Archive member included because of file (symbol)
+
+/media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(HardwareSerial.o)
+                              ./avrRos_user.o (HardwareSerial::begin(long))
+/media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(Print.o)
+                              /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(HardwareSerial.o) (Print::write(char const*))
+/media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(main.o)
+                              /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/crtm1280.o (main)
+/media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(wiring.o)
+                              ./main.o (delay)
+/media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(wiring_digital.o)
+                              ./main.o (pinMode)
+/media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(pins_arduino.o)
+                              /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(wiring_digital.o) (port_to_mode_PGM)
+/usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_mulsi3.o)
+                              /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(HardwareSerial.o) (__mulsi3)
+/usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_divmodhi4.o)
+                              /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(HardwareSerial.o) (__divmodhi4)
+/usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_udivmodsi4.o)
+                              /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(HardwareSerial.o) (__udivmodsi4)
+/usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_exit.o)
+                              /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/crtm1280.o (exit)
+/usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_clear_bss.o)
+                              ./avrRos_user.o (__do_clear_bss)
+/usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_ctors.o)
+                              ./main.o (__do_global_ctors)
+/usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_dtors.o)
+                              ./main.o (__do_global_dtors)
+/usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_fixunssfsi.o)
+                              /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(Print.o) (__fixunssfsi)
+/usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_addsub_sf.o)
+                              /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(Print.o) (__subsf3)
+/usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_mul_sf.o)
+                              /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(Print.o) (__mulsf3)
+/usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_div_sf.o)
+                              /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(Print.o) (__divsf3)
+/usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_ge_sf.o)
+                              /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_fixunssfsi.o) (__gesf2)
+/usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_lt_sf.o)
+                              /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(Print.o) (__ltsf2)
+/usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_si_to_sf.o)
+                              /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(Print.o) (__floatsisf)
+/usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_sf_to_si.o)
+                              /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(Print.o) (__fixsfsi)
+/usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_thenan_sf.o)
+                              /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_addsub_sf.o) (__thenan_sf)
+/usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_usi_to_sf.o)
+                              /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(Print.o) (__floatunsisf)
+/usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_udivmodhi4.o)
+                              /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_divmodhi4.o) (__udivmodhi4)
+/usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_prologue.o)
+                              /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_addsub_sf.o) (__prologue_saves__)
+/usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_epilogue.o)
+                              /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_addsub_sf.o) (__epilogue_restores__)
+/usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_tablejump.o)
+                              /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_ctors.o) (__tablejump__)
+/usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_clzsi2.o)
+                              /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_si_to_sf.o) (__clzsi2)
+/usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_pack_sf.o)
+                              /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_addsub_sf.o) (__pack_f)
+/usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_unpack_sf.o)
+                              /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_addsub_sf.o) (__unpack_f)
+/usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_fpcmp_parts_sf.o)
+                              /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_ge_sf.o) (__fpcmp_parts_f)
+/usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_clz.o)
+                              /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_clzsi2.o) (__clz_tab)
+/usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(malloc.o)
+                              ./avrRos/ros_string.o (malloc)
+/usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(memcpy.o)
+                              ./avrRos/ros_string.o (memcpy)
+/usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(strcmp.o)
+                              ./avrRos/ros_generated.o (strcmp)
+/usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(strncpy.o)
+                              ./avrRos/ros_string.o (strncpy)
+/usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(fdevopen.o)
+                              ./avrRos/Ros.o (fdevopen)
+/usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(fputc.o)
+                              ./avrRos/Ros.o (fputc)
+/usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(fwrite.o)
+                              ./avrRos/Ros.o (fwrite)
+/usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(iob.o)
+                              /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(fdevopen.o) (__iob)
+/usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(sprintf.o)
+                              ./main.o (sprintf)
+/usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(vfprintf_std.o)
+                              /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(sprintf.o) (vfprintf)
+/usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(calloc.o)
+                              /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(fdevopen.o) (calloc)
+/usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(strnlen_P.o)
+                              /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(vfprintf_std.o) (strnlen_P)
+/usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(memset.o)
+                              /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(calloc.o) (memset)
+/usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(strnlen.o)
+                              /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(vfprintf_std.o) (strnlen)
+/usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(ultoa_invert.o)
+                              /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(vfprintf_std.o) (__ultoa_invert)
+
+Allocating common symbols
+Common symbol       size              file
+
+__brkval            0x2               /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(malloc.o)
+__flp               0x2               /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(malloc.o)
+__iob               0x6               /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(iob.o)
+
+Discarded input sections
+
+ .stab          0x00000000        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/crtm1280.o
+ .stabstr       0x00000000        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/crtm1280.o
+ .stab          0x00000000        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(malloc.o)
+ .stabstr       0x00000000        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(malloc.o)
+ .stab          0x00000000        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(memcpy.o)
+ .stabstr       0x00000000        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(memcpy.o)
+ .stab          0x00000000        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(strcmp.o)
+ .stabstr       0x00000000        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(strcmp.o)
+ .stab          0x00000000        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(strncpy.o)
+ .stabstr       0x00000000        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(strncpy.o)
+ .stab          0x00000000        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(fdevopen.o)
+ .stabstr       0x00000000        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(fdevopen.o)
+ .stab          0x00000000        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(fputc.o)
+ .stabstr       0x00000000        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(fputc.o)
+ .stab          0x00000000        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(fwrite.o)
+ .stabstr       0x00000000        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(fwrite.o)
+ .stab          0x00000000        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(iob.o)
+ .stabstr       0x00000000        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(iob.o)
+ .stab          0x00000000        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(sprintf.o)
+ .stabstr       0x00000000        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(sprintf.o)
+ .stab          0x00000000        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(vfprintf_std.o)
+ .stabstr       0x00000000        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(vfprintf_std.o)
+ .stab          0x00000000        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(calloc.o)
+ .stabstr       0x00000000        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(calloc.o)
+ .stab          0x00000000        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(strnlen_P.o)
+ .stabstr       0x00000000        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(strnlen_P.o)
+ .stab          0x00000000        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(memset.o)
+ .stabstr       0x00000000        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(memset.o)
+ .stab          0x00000000        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(strnlen.o)
+ .stabstr       0x00000000        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(strnlen.o)
+ .stab          0x00000000        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(ultoa_invert.o)
+ .stabstr       0x00000000        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(ultoa_invert.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800200
+LOAD /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/crtm1280.o
+LOAD ./avrRos_user.o
+LOAD ./main.o
+LOAD ./avrRos/Msg.o
+LOAD ./avrRos/Ros.o
+LOAD ./avrRos/String.o
+LOAD ./avrRos/ros_generated.o
+LOAD ./avrRos/ros_string.o
+LOAD /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a
+LOAD /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a
+LOAD /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libm.a
+LOAD /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a
+LOAD /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a
+LOAD /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x349e
+ *(.vectors)
+ .vectors       0x00000000       0xe4 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/crtm1280.o
+                0x00000000                __vectors
+                0x00000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+ *(.progmem*)
+ .progmem.data  0x000000e4      0x120 /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(pins_arduino.o)
+                0x000000e4                port_to_mode_PGM
+                0x00000132                digital_pin_to_port_PGM
+                0x00000178                digital_pin_to_bit_mask_PGM
+                0x000000fe                port_to_output_PGM
+                0x00000118                port_to_input_PGM
+                0x000001be                digital_pin_to_timer_PGM
+                0x00000204                . = ALIGN (0x2)
+                0x00000204                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000204        0x0 linker stubs
+ *(.trampolines*)
+                0x00000204                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000204                __ctors_start = .
+ *(.ctors)
+ .ctors         0x00000204        0x2 ./main.o
+ .ctors         0x00000206        0x2 ./avrRos/Ros.o
+ .ctors         0x00000208        0x2 ./avrRos/ros_generated.o
+ .ctors         0x0000020a        0x2 /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(HardwareSerial.o)
+                0x0000020c                __ctors_end = .
+                0x0000020c                __dtors_start = .
+ *(.dtors)
+ .dtors         0x0000020c        0x2 ./main.o
+ .dtors         0x0000020e        0x2 ./avrRos/ros_generated.o
+                0x00000210                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000210        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/crtm1280.o
+                0x00000210                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000210        0xc /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/crtm1280.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x0000021c       0x1a /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/crtm1280.o
+                0x0000021c                __do_copy_data
+ .init4         0x00000236       0x10 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_clear_bss.o)
+                0x00000236                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ .init6         0x00000246       0x16 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_ctors.o)
+                0x00000246                __do_global_ctors
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x0000025c        0x8 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/crtm1280.o
+ *(.init9)
+ *(.text)
+ .text          0x00000264        0x4 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/crtm1280.o
+                0x00000264                __vector_38
+                0x00000264                __vector_22
+                0x00000264                __vector_28
+                0x00000264                __vector_1
+                0x00000264                __vector_32
+                0x00000264                __vector_34
+                0x00000264                __vector_24
+                0x00000264                __vector_12
+                0x00000264                __vector_55
+                0x00000264                __vector_46
+                0x00000264                __bad_interrupt
+                0x00000264                __vector_6
+                0x00000264                __vector_31
+                0x00000264                __vector_35
+                0x00000264                __vector_39
+                0x00000264                __vector_3
+                0x00000264                __vector_30
+                0x00000264                __vector_45
+                0x00000264                __vector_11
+                0x00000264                __vector_13
+                0x00000264                __vector_17
+                0x00000264                __vector_19
+                0x00000264                __vector_56
+                0x00000264                __vector_7
+                0x00000264                __vector_49
+                0x00000264                __vector_41
+                0x00000264                __vector_43
+                0x00000264                __vector_27
+                0x00000264                __vector_5
+                0x00000264                __vector_33
+                0x00000264                __vector_47
+                0x00000264                __vector_52
+                0x00000264                __vector_37
+                0x00000264                __vector_4
+                0x00000264                __vector_44
+                0x00000264                __vector_9
+                0x00000264                __vector_2
+                0x00000264                __vector_21
+                0x00000264                __vector_15
+                0x00000264                __vector_29
+                0x00000264                __vector_40
+                0x00000264                __vector_8
+                0x00000264                __vector_26
+                0x00000264                __vector_48
+                0x00000264                __vector_14
+                0x00000264                __vector_53
+                0x00000264                __vector_10
+                0x00000264                __vector_50
+                0x00000264                __vector_16
+                0x00000264                __vector_18
+                0x00000264                __vector_20
+                0x00000264                __vector_42
+ .text          0x00000268       0x2c ./avrRos_user.o
+                0x00000282                Ros::initCommunication()
+                0x00000268                ros_getchar(__file*)
+                0x00000272                ros_putchar(char, __file*)
+ .text          0x00000294      0x156 ./main.o
+                0x000002ee                loop
+                0x00000366                toggle()
+                0x00000294                __cxa_pure_virtual
+                0x00000304                setup
+                0x0000038c                response(Msg*)
+ .text          0x000003ea       0x30 ./avrRos/Msg.o
+                0x000003ea                Msg::Msg()
+                0x0000040e                Msg::~Msg()
+                0x000003f6                Msg::Msg()
+                0x00000402                Msg::~Msg()
+ .text          0x0000041a      0x3d4 ./avrRos/Ros.o
+                0x000007a0                Ros::Ros(char*, unsigned char)
+                0x000004be                Ros::getID()
+                0x00000706                Ros::advertise(char*)
+                0x0000041a                Ros::resetStateMachine()
+                0x000006c4                Ros::publish(unsigned char, Msg*)
+                0x0000070c                Ros::subscribe(char*, void (*)(Msg*), Msg*)
+                0x00000752                Ros::Ros(char*, unsigned char)
+                0x0000044a                Ros::send(unsigned char*, unsigned int, char, char)
+                0x00000430                Ros::~Ros()
+                0x00000432                Ros::~Ros()
+                0x000004e4                Ros::spin()
+ .text          0x000007ee       0xc4 ./avrRos/String.o
+                0x000007fe                std_msgs::String::serialize(unsigned char*)
+                0x000008a0                std_msgs::String::~String()
+                0x0000088e                std_msgs::String::~String()
+                0x0000086c                std_msgs::String::String()
+                0x000007ee                std_msgs::String::bytes()
+                0x000007f6                std_msgs::String::deserialize(unsigned char*)
+                0x00000806                std_msgs::String::String(unsigned char*)
+                0x0000084a                std_msgs::String::String()
+                0x00000828                std_msgs::String::String(unsigned char*)
+ .text          0x000008b2       0x7e ./avrRos/ros_generated.o
+                0x000008fe                Ros::getTopicTag(char*)
+ .text          0x00000930      0x214 ./avrRos/ros_string.o
+                0x00000b24                ROS::string::string(char*)
+                0x00000938                ROS::string::string()
+                0x00000a9e                ROS::string::setString(char*)
+                0x00000b30                ROS::string::string(unsigned int)
+                0x00000940                ROS::string::bytes()
+                0x00000a6a                ROS::string::setMaxLength(unsigned int)
+                0x00000958                ROS::string::deserialize(unsigned char*)
+                0x00000b3a                ROS::string::string(unsigned int)
+                0x00000b2a                ROS::string::string(char*)
+                0x00000a06                ROS::string::serialize(unsigned char*)
+                0x00000930                ROS::string::string()
+ .text          0x00000b44        0x0 /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(HardwareSerial.o)
+ .text          0x00000b44        0x0 /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(Print.o)
+ .text          0x00000b44        0x0 /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(main.o)
+ .text          0x00000b44      0x222 /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(wiring.o)
+                0x00000b44                __vector_23
+                0x00000ca4                init
+                0x00000bf0                micros
+                0x00000c3c                delay
+                0x00000bd4                millis
+                0x00000c90                delayMicroseconds
+ .text          0x00000d66      0x26e /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(wiring_digital.o)
+                0x00000ebc                digitalRead
+                0x00000da6                digitalWrite
+                0x00000d66                pinMode
+ .text          0x00000fd4        0x0 /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(pins_arduino.o)
+ .text          0x00000fd4        0x0 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_mulsi3.o)
+ .text          0x00000fd4        0x0 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_divmodhi4.o)
+ .text          0x00000fd4        0x0 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_udivmodsi4.o)
+ .text          0x00000fd4        0x0 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_exit.o)
+ .text          0x00000fd4        0x0 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_clear_bss.o)
+ .text          0x00000fd4        0x0 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_ctors.o)
+ .text          0x00000fd4        0x0 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_dtors.o)
+ .text          0x00000fd4       0x58 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_fixunssfsi.o)
+                0x00000fd4                __fixunssfsi
+ .text          0x0000102c      0x354 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_addsub_sf.o)
+                0x000012c4                __subsf3
+                0x00001326                __addsf3
+ .text          0x00001380      0x1f4 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_mul_sf.o)
+                0x00001380                __mulsf3
+ .text          0x00001574      0x158 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_div_sf.o)
+                0x00001574                __divsf3
+ .text          0x000016cc       0x60 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_ge_sf.o)
+                0x000016cc                __gesf2
+ .text          0x0000172c       0x60 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_lt_sf.o)
+                0x0000172c                __ltsf2
+ .text          0x0000178c       0xbc /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_si_to_sf.o)
+                0x0000178c                __floatsisf
+ .text          0x00001848       0xa8 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_sf_to_si.o)
+                0x00001848                __fixsfsi
+ .text          0x000018f0        0x0 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_thenan_sf.o)
+ .text          0x000018f0       0xf2 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_usi_to_sf.o)
+                0x000018f0                __floatunsisf
+ .text          0x000019e2        0x0 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_udivmodhi4.o)
+ .text          0x000019e2        0x0 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_prologue.o)
+ .text          0x000019e2        0x0 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_epilogue.o)
+ .text          0x000019e2        0x0 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_tablejump.o)
+ .text          0x000019e2       0x9e /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_clzsi2.o)
+                0x000019e2                __clzsi2
+ .text          0x00001a80      0x1aa /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_pack_sf.o)
+                0x00001a80                __pack_f
+ .text          0x00001c2a       0xf0 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_unpack_sf.o)
+                0x00001c2a                __unpack_f
+ .text          0x00001d1a       0xb2 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_fpcmp_parts_sf.o)
+                0x00001d1a                __fpcmp_parts_f
+ .text          0x00001dcc        0x0 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_clz.o)
+ .text          0x00001dcc      0x204 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(malloc.o)
+                0x00001dcc                malloc
+                0x00001f20                free
+ .text          0x00001fd0       0x12 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(memcpy.o)
+                0x00001fd0                memcpy
+ .text          0x00001fe2       0x12 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(strcmp.o)
+                0x00001fe2                strcmp
+ .text          0x00001ff4       0x1e /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(strncpy.o)
+                0x00001ff4                strncpy
+ .text          0x00002012       0x98 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(fdevopen.o)
+                0x00002012                fdevopen
+ .text          0x000020aa       0x58 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(fputc.o)
+                0x000020aa                fputc
+ .text          0x00002102       0x6a /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(fwrite.o)
+                0x00002102                fwrite
+ .text          0x0000216c        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(iob.o)
+ .text          0x0000216c       0x48 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(sprintf.o)
+                0x0000216c                sprintf
+ .text          0x000021b4      0x3ba /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(vfprintf_std.o)
+                0x000021b4                vfprintf
+ .text          0x0000256e       0x38 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(calloc.o)
+                0x0000256e                calloc
+ .text          0x000025a6       0x16 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(strnlen_P.o)
+                0x000025a6                strnlen_P
+ .text          0x000025bc        0xe /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(memset.o)
+                0x000025bc                memset
+ .text          0x000025ca       0x16 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(strnlen.o)
+                0x000025ca                strnlen
+ .text          0x000025e0       0xbc /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(ultoa_invert.o)
+                0x000025e0                __ultoa_invert
+                0x0000269c                . = ALIGN (0x2)
+ *(.text.*)
+ .text.__vector_25
+                0x0000269c       0x82 /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(HardwareSerial.o)
+                0x0000269c                __vector_25
+ .text.__vector_36
+                0x0000271e       0x82 /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(HardwareSerial.o)
+                0x0000271e                __vector_36
+ .text.__vector_51
+                0x000027a0       0x82 /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(HardwareSerial.o)
+                0x000027a0                __vector_51
+ .text.__vector_54
+                0x00002822       0x82 /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(HardwareSerial.o)
+                0x00002822                __vector_54
+ .text._ZN14HardwareSerialC2EP11ring_bufferPVhS3_S3_S3_S3_hhhhh
+                0x000028a4       0x60 /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(HardwareSerial.o)
+                0x000028a4                HardwareSerial::HardwareSerial(ring_buffer*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char)
+ .text._ZN14HardwareSerialC1EP11ring_bufferPVhS3_S3_S3_S3_hhhhh
+                0x00002904       0x60 /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(HardwareSerial.o)
+                0x00002904                HardwareSerial::HardwareSerial(ring_buffer*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char)
+ .text._ZN14HardwareSerial5beginEl
+                0x00002964      0x1e2 /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(HardwareSerial.o)
+                0x00002964                HardwareSerial::begin(long)
+ .text._ZN14HardwareSerial3endEv
+                0x00002b46       0x54 /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(HardwareSerial.o)
+                0x00002b46                HardwareSerial::end()
+ .text._ZN14HardwareSerial9availableEv
+                0x00002b9a       0x28 /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(HardwareSerial.o)
+                0x00002b9a                HardwareSerial::available()
+ .text._ZN14HardwareSerial4readEv
+                0x00002bc2       0x50 /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(HardwareSerial.o)
+                0x00002bc2                HardwareSerial::read()
+ .text._ZN14HardwareSerial5flushEv
+                0x00002c12       0x18 /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(HardwareSerial.o)
+                0x00002c12                HardwareSerial::flush()
+ .text._ZN14HardwareSerial5writeEh
+                0x00002c2a       0x26 /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(HardwareSerial.o)
+                0x00002c2a                HardwareSerial::write(unsigned char)
+ .text._GLOBAL__I_rx_buffer
+                0x00002c50      0x1a0 /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(HardwareSerial.o)
+ .text._ZN5Print5writeEPKc
+                0x00002df0       0x30 /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(Print.o)
+                0x00002df0                Print::write(char const*)
+ .text._ZN5Print5writeEPKhj
+                0x00002e20       0x3e /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(Print.o)
+                0x00002e20                Print::write(unsigned char const*, unsigned int)
+ .text._ZN5Print5printEPKc
+                0x00002e5e       0x10 /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(Print.o)
+                0x00002e5e                Print::print(char const*)
+ .text._ZN5Print11printNumberEmh
+                0x00002e6e      0x130 /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(Print.o)
+                0x00002e6e                Print::printNumber(unsigned long, unsigned char)
+ .text._ZN5Print5printEmi
+                0x00002f9e       0x1e /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(Print.o)
+                0x00002f9e                Print::print(unsigned long, int)
+ .text._ZN5Print5printEji
+                0x00002fbc       0x22 /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(Print.o)
+                0x00002fbc                Print::print(unsigned int, int)
+ .text._ZN5Print5printEhi
+                0x00002fde       0x24 /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(Print.o)
+                0x00002fde                Print::print(unsigned char, int)
+ .text._ZN5Print5printEli
+                0x00003002       0x6c /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(Print.o)
+                0x00003002                Print::print(long, int)
+ .text._ZN5Print5printEii
+                0x0000306e       0x26 /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(Print.o)
+                0x0000306e                Print::print(int, int)
+ .text._ZN5Print5printEci
+                0x00003094       0x24 /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(Print.o)
+                0x00003094                Print::print(char, int)
+ .text._ZN5Print7printlnEv
+                0x000030b8       0x2e /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(Print.o)
+                0x000030b8                Print::println()
+ .text._ZN5Print7printlnEmi
+                0x000030e6       0x16 /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(Print.o)
+                0x000030e6                Print::println(unsigned long, int)
+ .text._ZN5Print7printlnEji
+                0x000030fc       0x32 /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(Print.o)
+                0x000030fc                Print::println(unsigned int, int)
+ .text._ZN5Print7printlnEhi
+                0x0000312e       0x34 /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(Print.o)
+                0x0000312e                Print::println(unsigned char, int)
+ .text._ZN5Print7printlnEPKc
+                0x00003162       0x16 /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(Print.o)
+                0x00003162                Print::println(char const*)
+ .text._ZN5Print7printlnEli
+                0x00003178       0x16 /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(Print.o)
+                0x00003178                Print::println(long, int)
+ .text._ZN5Print7printlnEii
+                0x0000318e       0x36 /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(Print.o)
+                0x0000318e                Print::println(int, int)
+ .text._ZN5Print7printlnEci
+                0x000031c4       0x34 /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(Print.o)
+                0x000031c4                Print::println(char, int)
+ .text._ZN5Print10printFloatEdh
+                0x000031f8      0x118 /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(Print.o)
+                0x000031f8                Print::printFloat(double, unsigned char)
+ .text._ZN5Print5printEdi
+                0x00003310        0x6 /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(Print.o)
+                0x00003310                Print::print(double, int)
+ .text._ZN5Print7printlnEdi
+                0x00003316       0x16 /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(Print.o)
+                0x00003316                Print::println(double, int)
+ .text.main     0x0000332c        0xe /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(main.o)
+                0x0000332c                main
+ .text.libgcc   0x0000333a       0x3e /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_mulsi3.o)
+                0x0000333a                __mulsi3
+ .text.libgcc   0x00003378       0x26 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_divmodhi4.o)
+                0x00003378                __divmodhi4
+                0x00003378                _div
+ .text.libgcc   0x0000339e       0x44 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_udivmodsi4.o)
+                0x0000339e                __udivmodsi4
+ .text.libgcc   0x000033e2        0x0 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_exit.o)
+ .text.libgcc   0x000033e2        0x0 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_clear_bss.o)
+ .text.libgcc   0x000033e2        0x0 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_ctors.o)
+ .text.libgcc   0x000033e2        0x0 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_dtors.o)
+ .text.libgcc   0x000033e2       0x28 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_udivmodhi4.o)
+                0x000033e2                __udivmodhi4
+ .text.libgcc   0x0000340a       0x38 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_prologue.o)
+                0x0000340a                __prologue_saves__
+ .text.libgcc   0x00003442       0x36 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_epilogue.o)
+                0x00003442                __epilogue_restores__
+ .text.libgcc   0x00003478        0xc /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_tablejump.o)
+                0x0000347c                __tablejump__
+                0x00003478                __tablejump2__
+                0x00003484                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00003484        0x0 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_exit.o)
+                0x00003484                exit
+                0x00003484                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ .fini6         0x00003484       0x16 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_dtors.o)
+                0x00003484                __do_global_dtors
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x0000349a        0x4 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_exit.o)
+ *(.fini0)
+                0x0000349e                _etext = .
+
+.data           0x00800200      0x170 load address 0x0000349e
+                0x00800200                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800200        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/crtm1280.o
+ .data          0x00800200        0x0 ./avrRos_user.o
+ .data          0x00800200       0x1c ./main.o
+ .data          0x0080021c        0xa ./avrRos/Msg.o
+                0x0080021c                vtable for Msg
+ .data          0x00800226        0x0 ./avrRos/Ros.o
+ .data          0x00800226        0xa ./avrRos/String.o
+                0x00800226                vtable for std_msgs::String
+ .data          0x00800230       0x1b ./avrRos/ros_generated.o
+ .data          0x0080024b        0x0 ./avrRos/ros_string.o
+ .data          0x0080024b        0x0 /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(HardwareSerial.o)
+ .data          0x0080024b        0x2 /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(Print.o)
+ .data          0x0080024d        0x0 /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(main.o)
+ .data          0x0080024d        0x0 /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(wiring.o)
+ .data          0x0080024d        0x0 /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(wiring_digital.o)
+ .data          0x0080024d        0x0 /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(pins_arduino.o)
+ .data          0x0080024d        0x0 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_mulsi3.o)
+ .data          0x0080024d        0x0 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_divmodhi4.o)
+ .data          0x0080024d        0x0 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_udivmodsi4.o)
+ .data          0x0080024d        0x0 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_exit.o)
+ .data          0x0080024d        0x0 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_clear_bss.o)
+ .data          0x0080024d        0x0 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_ctors.o)
+ .data          0x0080024d        0x0 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_dtors.o)
+ .data          0x0080024d        0x0 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_fixunssfsi.o)
+ .data          0x0080024d        0x0 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_addsub_sf.o)
+ .data          0x0080024d        0x0 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_mul_sf.o)
+ .data          0x0080024d        0x0 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_div_sf.o)
+ .data          0x0080024d        0x0 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_ge_sf.o)
+ .data          0x0080024d        0x0 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_lt_sf.o)
+ .data          0x0080024d        0x0 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_si_to_sf.o)
+ .data          0x0080024d        0x0 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_sf_to_si.o)
+ .data          0x0080024d        0x8 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_thenan_sf.o)
+                0x0080024d                __thenan_sf
+ .data          0x00800255        0x0 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_usi_to_sf.o)
+ .data          0x00800255        0x0 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_udivmodhi4.o)
+ .data          0x00800255        0x0 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_prologue.o)
+ .data          0x00800255        0x0 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_epilogue.o)
+ .data          0x00800255        0x0 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_tablejump.o)
+ .data          0x00800255        0x0 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_clzsi2.o)
+ .data          0x00800255        0x0 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_pack_sf.o)
+ .data          0x00800255        0x0 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_unpack_sf.o)
+ .data          0x00800255        0x0 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_fpcmp_parts_sf.o)
+ .data          0x00800255      0x100 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_clz.o)
+                0x00800255                __clz_tab
+ .data          0x00800355        0x6 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(malloc.o)
+                0x00800357                __malloc_heap_start
+                0x00800359                __malloc_heap_end
+                0x00800355                __malloc_margin
+ .data          0x0080035b        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(memcpy.o)
+ .data          0x0080035b        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(strcmp.o)
+ .data          0x0080035b        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(strncpy.o)
+ .data          0x0080035b        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(fdevopen.o)
+ .data          0x0080035b        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(fputc.o)
+ .data          0x0080035b        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(fwrite.o)
+ .data          0x0080035b        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(iob.o)
+ .data          0x0080035b        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(sprintf.o)
+ .data          0x0080035b        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(vfprintf_std.o)
+ .data          0x0080035b        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(calloc.o)
+ .data          0x0080035b        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(strnlen_P.o)
+ .data          0x0080035b        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(memset.o)
+ .data          0x0080035b        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(strnlen.o)
+ .data          0x0080035b        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(ultoa_invert.o)
+ *(.data*)
+ *(.rodata)
+ *(.rodata*)
+ .rodata._ZTV14HardwareSerial
+                0x0080035b        0xa /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(HardwareSerial.o)
+                0x0080035b                vtable for HardwareSerial
+ .rodata._ZTV5Print
+                0x00800365        0xa /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(Print.o)
+                0x00800365                vtable for Print
+ *(.gnu.linkonce.d*)
+                0x00800370                . = ALIGN (0x2)
+ *fill*         0x0080036f        0x1 00
+                0x00800370                _edata = .
+                0x00800370                PROVIDE (__data_end, .)
+
+.bss            0x00800370      0x513 load address 0x0000360e
+                0x00800370                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x00800370        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/crtm1280.o
+ .bss           0x00800370        0x0 ./avrRos_user.o
+ .bss           0x00800370       0x16 ./main.o
+                0x00800370                resp
+                0x00800371                call_msg
+                0x0080037b                response_msg
+ .bss           0x00800386        0x0 ./avrRos/Msg.o
+ .bss           0x00800386        0x2 ./avrRos/Ros.o
+                0x00800386                ros_io
+ .bss           0x00800388        0x0 ./avrRos/String.o
+ .bss           0x00800388      0x28c ./avrRos/ros_generated.o
+                0x00800388                ros
+ .bss           0x00800614        0x0 ./avrRos/ros_string.o
+ .bss           0x00800614        0x0 /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(HardwareSerial.o)
+ .bss           0x00800614        0x0 /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(Print.o)
+ .bss           0x00800614        0x0 /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(main.o)
+ .bss           0x00800614        0x9 /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(wiring.o)
+                0x00800614                timer0_overflow_count
+                0x00800618                timer0_millis
+ .bss           0x0080061d        0x0 /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(wiring_digital.o)
+ .bss           0x0080061d        0x0 /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(pins_arduino.o)
+ .bss           0x0080061d        0x0 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_mulsi3.o)
+ .bss           0x0080061d        0x0 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_divmodhi4.o)
+ .bss           0x0080061d        0x0 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_udivmodsi4.o)
+ .bss           0x0080061d        0x0 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_exit.o)
+ .bss           0x0080061d        0x0 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_clear_bss.o)
+ .bss           0x0080061d        0x0 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_ctors.o)
+ .bss           0x0080061d        0x0 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_dtors.o)
+ .bss           0x0080061d        0x0 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_fixunssfsi.o)
+ .bss           0x0080061d        0x0 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_addsub_sf.o)
+ .bss           0x0080061d        0x0 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_mul_sf.o)
+ .bss           0x0080061d        0x0 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_div_sf.o)
+ .bss           0x0080061d        0x0 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_ge_sf.o)
+ .bss           0x0080061d        0x0 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_lt_sf.o)
+ .bss           0x0080061d        0x0 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_si_to_sf.o)
+ .bss           0x0080061d        0x0 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_sf_to_si.o)
+ .bss           0x0080061d        0x0 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_thenan_sf.o)
+ .bss           0x0080061d        0x0 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_usi_to_sf.o)
+ .bss           0x0080061d        0x0 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_udivmodhi4.o)
+ .bss           0x0080061d        0x0 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_prologue.o)
+ .bss           0x0080061d        0x0 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_epilogue.o)
+ .bss           0x0080061d        0x0 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_tablejump.o)
+ .bss           0x0080061d        0x0 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_clzsi2.o)
+ .bss           0x0080061d        0x0 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_pack_sf.o)
+ .bss           0x0080061d        0x0 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_unpack_sf.o)
+ .bss           0x0080061d        0x0 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_fpcmp_parts_sf.o)
+ .bss           0x0080061d        0x0 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_clz.o)
+ .bss           0x0080061d        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(malloc.o)
+ .bss           0x0080061d        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(memcpy.o)
+ .bss           0x0080061d        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(strcmp.o)
+ .bss           0x0080061d        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(strncpy.o)
+ .bss           0x0080061d        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(fdevopen.o)
+ .bss           0x0080061d        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(fputc.o)
+ .bss           0x0080061d        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(fwrite.o)
+ .bss           0x0080061d        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(iob.o)
+ .bss           0x0080061d        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(sprintf.o)
+ .bss           0x0080061d        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(vfprintf_std.o)
+ .bss           0x0080061d        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(calloc.o)
+ .bss           0x0080061d        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(strnlen_P.o)
+ .bss           0x0080061d        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(memset.o)
+ .bss           0x0080061d        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(strnlen.o)
+ .bss           0x0080061d        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(ultoa_invert.o)
+ *(.bss*)
+ .bss.rx_buffer
+                0x0080061d       0x84 /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(HardwareSerial.o)
+                0x0080061d                rx_buffer
+ .bss.rx_buffer1
+                0x008006a1       0x84 /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(HardwareSerial.o)
+                0x008006a1                rx_buffer1
+ .bss.rx_buffer2
+                0x00800725       0x84 /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(HardwareSerial.o)
+                0x00800725                rx_buffer2
+ .bss.rx_buffer3
+                0x008007a9       0x84 /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(HardwareSerial.o)
+                0x008007a9                rx_buffer3
+ .bss.Serial    0x0080082d       0x13 /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(HardwareSerial.o)
+                0x0080082d                Serial
+ .bss.Serial1   0x00800840       0x13 /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(HardwareSerial.o)
+                0x00800840                Serial1
+ .bss.Serial2   0x00800853       0x13 /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(HardwareSerial.o)
+                0x00800853                Serial2
+ .bss.Serial3   0x00800866       0x13 /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(HardwareSerial.o)
+                0x00800866                Serial3
+ *(COMMON)
+ COMMON         0x00800879        0x4 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(malloc.o)
+                0x00800879                __brkval
+                0x0080087b                __flp
+ COMMON         0x0080087d        0x6 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(iob.o)
+                0x0080087d                __iob
+                0x00800883                PROVIDE (__bss_end, .)
+                0x0000349e                __data_load_start = LOADADDR (.data)
+                0x0000360e                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00800883        0x0
+                0x00800883                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x00800883                PROVIDE (__noinit_end, .)
+                0x00800883                _end = .
+                0x00800883                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info
+ *(.debug_info)
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev
+ *(.debug_abbrev)
+
+.debug_line
+ *(.debug_line)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str
+ *(.debug_str)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+OUTPUT(avrBridge_1280.elf elf32-avr)
+LOAD linker stubs
+
+Cross Reference Table
+
+Symbol                                            File
+HardwareSerial::HardwareSerial(ring_buffer*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char) /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(HardwareSerial.o)
+HardwareSerial::HardwareSerial(ring_buffer*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char) /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(HardwareSerial.o)
+HardwareSerial::available()                       /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(HardwareSerial.o)
+HardwareSerial::begin(long)                       /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(HardwareSerial.o)
+                                                  ./avrRos_user.o
+HardwareSerial::end()                             /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(HardwareSerial.o)
+HardwareSerial::flush()                           /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(HardwareSerial.o)
+HardwareSerial::read()                            /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(HardwareSerial.o)
+                                                  ./avrRos_user.o
+HardwareSerial::write(unsigned char)              /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(HardwareSerial.o)
+                                                  ./avrRos_user.o
+Msg::Msg()                                        ./avrRos/Msg.o
+                                                  ./avrRos/String.o
+Msg::Msg()                                        ./avrRos/Msg.o
+Msg::~Msg()                                       ./avrRos/Msg.o
+Msg::~Msg()                                       ./avrRos/Msg.o
+                                                  ./avrRos/String.o
+Print::print(char const*)                         /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(Print.o)
+Print::print(char, int)                           /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(Print.o)
+Print::print(double, int)                         /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(Print.o)
+Print::print(int, int)                            /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(Print.o)
+Print::print(long, int)                           /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(Print.o)
+Print::print(unsigned char, int)                  /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(Print.o)
+Print::print(unsigned int, int)                   /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(Print.o)
+Print::print(unsigned long, int)                  /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(Print.o)
+Print::printFloat(double, unsigned char)          /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(Print.o)
+Print::printNumber(unsigned long, unsigned char)  /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(Print.o)
+Print::println()                                  /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(Print.o)
+Print::println(char const*)                       /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(Print.o)
+Print::println(char, int)                         /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(Print.o)
+Print::println(double, int)                       /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(Print.o)
+Print::println(int, int)                          /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(Print.o)
+Print::println(long, int)                         /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(Print.o)
+Print::println(unsigned char, int)                /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(Print.o)
+Print::println(unsigned int, int)                 /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(Print.o)
+Print::println(unsigned long, int)                /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(Print.o)
+Print::write(char const*)                         /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(Print.o)
+                                                  /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(HardwareSerial.o)
+Print::write(unsigned char const*, unsigned int)  /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(Print.o)
+                                                  /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(HardwareSerial.o)
+ROS::string::bytes()                              ./avrRos/ros_string.o
+                                                  ./avrRos/String.o
+ROS::string::deserialize(unsigned char*)          ./avrRos/ros_string.o
+                                                  ./avrRos/String.o
+ROS::string::serialize(unsigned char*)            ./avrRos/ros_string.o
+                                                  ./avrRos/String.o
+                                                  ./avrRos/Ros.o
+ROS::string::setMaxLength(unsigned int)           ./avrRos/ros_string.o
+                                                  ./main.o
+ROS::string::setString(char*)                     ./avrRos/ros_string.o
+ROS::string::string()                             ./avrRos/ros_string.o
+                                                  ./avrRos/String.o
+ROS::string::string()                             ./avrRos/ros_string.o
+ROS::string::string(char*)                        ./avrRos/ros_string.o
+                                                  ./avrRos/Ros.o
+ROS::string::string(char*)                        ./avrRos/ros_string.o
+ROS::string::string(unsigned int)                 ./avrRos/ros_string.o
+ROS::string::string(unsigned int)                 ./avrRos/ros_string.o
+Ros::Ros(char*, unsigned char)                    ./avrRos/Ros.o
+Ros::Ros(char*, unsigned char)                    ./avrRos/Ros.o
+                                                  ./avrRos/ros_generated.o
+Ros::advertise(char*)                             ./avrRos/Ros.o
+                                                  ./main.o
+Ros::getID()                                      ./avrRos/Ros.o
+Ros::getTopicTag(char*)                           ./avrRos/ros_generated.o
+                                                  ./avrRos/Ros.o
+Ros::initCommunication()                          ./avrRos_user.o
+                                                  ./main.o
+Ros::publish(unsigned char, Msg*)                 ./avrRos/Ros.o
+                                                  ./main.o
+Ros::resetStateMachine()                          ./avrRos/Ros.o
+Ros::send(unsigned char*, unsigned int, char, char) ./avrRos/Ros.o
+Ros::spin()                                       ./avrRos/Ros.o
+                                                  ./main.o
+Ros::subscribe(char*, void (*)(Msg*), Msg*)       ./avrRos/Ros.o
+                                                  ./main.o
+Ros::~Ros()                                       ./avrRos/Ros.o
+Ros::~Ros()                                       ./avrRos/Ros.o
+                                                  ./avrRos/ros_generated.o
+Serial                                            /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(HardwareSerial.o)
+                                                  ./avrRos_user.o
+Serial1                                           /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(HardwareSerial.o)
+Serial2                                           /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(HardwareSerial.o)
+Serial3                                           /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(HardwareSerial.o)
+__addsf3                                          /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_addsub_sf.o)
+                                                  /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(Print.o)
+__bad_interrupt                                   /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/crtm1280.o
+__brkval                                          /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(malloc.o)
+__bss_end                                         /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_clear_bss.o)
+__bss_start                                       /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_clear_bss.o)
+__clz_tab                                         /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_clz.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_clzsi2.o)
+__clzsi2                                          /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_clzsi2.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_usi_to_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_si_to_sf.o)
+__ctors_end                                       /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_ctors.o)
+__ctors_start                                     /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_ctors.o)
+__cxa_pure_virtual                                ./main.o
+                                                  /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(Print.o)
+                                                  ./avrRos/Msg.o
+__data_end                                        /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/crtm1280.o
+__data_load_start                                 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/crtm1280.o
+__data_start                                      /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/crtm1280.o
+__divmodhi4                                       /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_divmodhi4.o)
+                                                  /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(HardwareSerial.o)
+__divsf3                                          /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_div_sf.o)
+                                                  /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(Print.o)
+__do_clear_bss                                    /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_clear_bss.o)
+                                                  /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(calloc.o)
+                                                  /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(vfprintf_std.o)
+                                                  /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(sprintf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(iob.o)
+                                                  /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(fwrite.o)
+                                                  /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(fputc.o)
+                                                  /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(fdevopen.o)
+                                                  /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(malloc.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_clz.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_fpcmp_parts_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_unpack_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_pack_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_clzsi2.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_usi_to_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_thenan_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_sf_to_si.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_si_to_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_lt_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_ge_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_div_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_mul_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_addsub_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_fixunssfsi.o)
+                                                  /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(pins_arduino.o)
+                                                  /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(wiring_digital.o)
+                                                  /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(wiring.o)
+                                                  /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(main.o)
+                                                  /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(Print.o)
+                                                  /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(HardwareSerial.o)
+                                                  ./avrRos/ros_string.o
+                                                  ./avrRos/ros_generated.o
+                                                  ./avrRos/String.o
+                                                  ./avrRos/Ros.o
+                                                  ./avrRos/Msg.o
+                                                  ./main.o
+                                                  ./avrRos_user.o
+__do_copy_data                                    /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/crtm1280.o
+                                                  /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(calloc.o)
+                                                  /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(vfprintf_std.o)
+                                                  /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(sprintf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(iob.o)
+                                                  /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(fwrite.o)
+                                                  /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(fputc.o)
+                                                  /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(fdevopen.o)
+                                                  /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(malloc.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_clz.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_fpcmp_parts_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_unpack_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_pack_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_clzsi2.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_usi_to_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_thenan_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_sf_to_si.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_si_to_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_lt_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_ge_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_div_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_mul_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_addsub_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_fixunssfsi.o)
+                                                  /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(pins_arduino.o)
+                                                  /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(wiring_digital.o)
+                                                  /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(wiring.o)
+                                                  /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(main.o)
+                                                  /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(Print.o)
+                                                  /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(HardwareSerial.o)
+                                                  ./avrRos/ros_string.o
+                                                  ./avrRos/ros_generated.o
+                                                  ./avrRos/String.o
+                                                  ./avrRos/Ros.o
+                                                  ./avrRos/Msg.o
+                                                  ./main.o
+                                                  ./avrRos_user.o
+__do_global_ctors                                 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_ctors.o)
+                                                  /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(HardwareSerial.o)
+                                                  ./avrRos/ros_generated.o
+                                                  ./avrRos/Ros.o
+                                                  ./main.o
+__do_global_dtors                                 /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_dtors.o)
+                                                  ./avrRos/ros_generated.o
+                                                  ./main.o
+__dtors_end                                       /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_dtors.o)
+__dtors_start                                     /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_dtors.o)
+__epilogue_restores__                             /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_epilogue.o)
+                                                  /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(vfprintf_std.o)
+                                                  /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(sprintf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(fwrite.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_usi_to_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_sf_to_si.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_si_to_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_lt_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_ge_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_div_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_mul_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_addsub_sf.o)
+__fixsfsi                                         /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_sf_to_si.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_fixunssfsi.o)
+                                                  /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(Print.o)
+__fixunssfsi                                      /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_fixunssfsi.o)
+                                                  /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(Print.o)
+__floatsisf                                       /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_si_to_sf.o)
+                                                  /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(Print.o)
+__floatunsisf                                     /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_usi_to_sf.o)
+                                                  /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(Print.o)
+__flp                                             /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(malloc.o)
+__fpcmp_parts_f                                   /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_fpcmp_parts_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_lt_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_ge_sf.o)
+__gesf2                                           /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_ge_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_fixunssfsi.o)
+__heap_end                                        /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/crtm1280.o
+                                                  /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(malloc.o)
+__heap_start                                      /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(malloc.o)
+__init                                            /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/crtm1280.o
+__iob                                             /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(iob.o)
+                                                  /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(fdevopen.o)
+__ltsf2                                           /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_lt_sf.o)
+                                                  /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(Print.o)
+__malloc_heap_end                                 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(malloc.o)
+__malloc_heap_start                               /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(malloc.o)
+__malloc_margin                                   /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(malloc.o)
+__mulsf3                                          /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_mul_sf.o)
+                                                  /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(Print.o)
+__mulsi3                                          /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_mulsi3.o)
+                                                  /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(HardwareSerial.o)
+__pack_f                                          /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_pack_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_usi_to_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_si_to_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_div_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_mul_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_addsub_sf.o)
+__prologue_saves__                                /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_prologue.o)
+                                                  /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(vfprintf_std.o)
+                                                  /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(sprintf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(fwrite.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_usi_to_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_sf_to_si.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_si_to_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_lt_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_ge_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_div_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_mul_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_addsub_sf.o)
+__stack                                           /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/crtm1280.o
+__subsf3                                          /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_addsub_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_fixunssfsi.o)
+                                                  /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(Print.o)
+__tablejump2__                                    /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_tablejump.o)
+__tablejump__                                     /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_tablejump.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_dtors.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_ctors.o)
+__thenan_sf                                       /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_thenan_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_div_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_mul_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_addsub_sf.o)
+__udivmodhi4                                      /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_udivmodhi4.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_divmodhi4.o)
+__udivmodsi4                                      /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_udivmodsi4.o)
+                                                  /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(Print.o)
+                                                  /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(HardwareSerial.o)
+__ultoa_invert                                    /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(ultoa_invert.o)
+                                                  /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(vfprintf_std.o)
+__unpack_f                                        /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_unpack_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_sf_to_si.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_lt_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_ge_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_div_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_mul_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_addsub_sf.o)
+__vector_1                                        /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/crtm1280.o
+__vector_10                                       /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/crtm1280.o
+__vector_11                                       /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/crtm1280.o
+__vector_12                                       /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/crtm1280.o
+__vector_13                                       /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/crtm1280.o
+__vector_14                                       /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/crtm1280.o
+__vector_15                                       /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/crtm1280.o
+__vector_16                                       /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/crtm1280.o
+__vector_17                                       /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/crtm1280.o
+__vector_18                                       /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/crtm1280.o
+__vector_19                                       /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/crtm1280.o
+__vector_2                                        /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/crtm1280.o
+__vector_20                                       /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/crtm1280.o
+__vector_21                                       /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/crtm1280.o
+__vector_22                                       /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/crtm1280.o
+__vector_23                                       /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(wiring.o)
+                                                  /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/crtm1280.o
+__vector_24                                       /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/crtm1280.o
+__vector_25                                       /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(HardwareSerial.o)
+                                                  /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/crtm1280.o
+__vector_26                                       /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/crtm1280.o
+__vector_27                                       /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/crtm1280.o
+__vector_28                                       /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/crtm1280.o
+__vector_29                                       /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/crtm1280.o
+__vector_3                                        /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/crtm1280.o
+__vector_30                                       /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/crtm1280.o
+__vector_31                                       /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/crtm1280.o
+__vector_32                                       /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/crtm1280.o
+__vector_33                                       /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/crtm1280.o
+__vector_34                                       /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/crtm1280.o
+__vector_35                                       /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/crtm1280.o
+__vector_36                                       /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(HardwareSerial.o)
+                                                  /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/crtm1280.o
+__vector_37                                       /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/crtm1280.o
+__vector_38                                       /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/crtm1280.o
+__vector_39                                       /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/crtm1280.o
+__vector_4                                        /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/crtm1280.o
+__vector_40                                       /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/crtm1280.o
+__vector_41                                       /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/crtm1280.o
+__vector_42                                       /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/crtm1280.o
+__vector_43                                       /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/crtm1280.o
+__vector_44                                       /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/crtm1280.o
+__vector_45                                       /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/crtm1280.o
+__vector_46                                       /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/crtm1280.o
+__vector_47                                       /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/crtm1280.o
+__vector_48                                       /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/crtm1280.o
+__vector_49                                       /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/crtm1280.o
+__vector_5                                        /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/crtm1280.o
+__vector_50                                       /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/crtm1280.o
+__vector_51                                       /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(HardwareSerial.o)
+                                                  /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/crtm1280.o
+__vector_52                                       /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/crtm1280.o
+__vector_53                                       /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/crtm1280.o
+__vector_54                                       /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(HardwareSerial.o)
+                                                  /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/crtm1280.o
+__vector_55                                       /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/crtm1280.o
+__vector_56                                       /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/crtm1280.o
+__vector_6                                        /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/crtm1280.o
+__vector_7                                        /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/crtm1280.o
+__vector_8                                        /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/crtm1280.o
+__vector_9                                        /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/crtm1280.o
+__vector_default                                  /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/crtm1280.o
+__vectors                                         /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/crtm1280.o
+_div                                              /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_divmodhi4.o)
+_exit                                             /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_exit.o)
+call_msg                                          ./main.o
+calloc                                            /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(calloc.o)
+                                                  /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(fdevopen.o)
+delay                                             /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(wiring.o)
+                                                  ./main.o
+delayMicroseconds                                 /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(wiring.o)
+digitalRead                                       /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(wiring_digital.o)
+digitalWrite                                      /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(wiring_digital.o)
+                                                  ./main.o
+digital_pin_to_bit_mask_PGM                       /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(pins_arduino.o)
+                                                  /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(wiring_digital.o)
+digital_pin_to_port_PGM                           /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(pins_arduino.o)
+                                                  /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(wiring_digital.o)
+digital_pin_to_timer_PGM                          /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(pins_arduino.o)
+                                                  /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(wiring_digital.o)
+exit                                              /usr/lib/gcc/avr/4.3.3/avr51/libgcc.a(_exit.o)
+                                                  /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/crtm1280.o
+fdevopen                                          /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(fdevopen.o)
+                                                  ./avrRos/Ros.o
+fputc                                             /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(fputc.o)
+                                                  /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(vfprintf_std.o)
+                                                  ./avrRos/Ros.o
+free                                              /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(malloc.o)
+fwrite                                            /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(fwrite.o)
+                                                  ./avrRos/Ros.o
+init                                              /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(wiring.o)
+                                                  /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(main.o)
+loop                                              ./main.o
+                                                  /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(main.o)
+main                                              /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(main.o)
+                                                  /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/crtm1280.o
+malloc                                            /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(malloc.o)
+                                                  /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(calloc.o)
+                                                  ./avrRos/ros_string.o
+memcpy                                            /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(memcpy.o)
+                                                  ./avrRos/ros_string.o
+memset                                            /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(memset.o)
+                                                  /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(calloc.o)
+micros                                            /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(wiring.o)
+millis                                            /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(wiring.o)
+pinMode                                           /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(wiring_digital.o)
+                                                  ./main.o
+port_to_input_PGM                                 /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(pins_arduino.o)
+                                                  /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(wiring_digital.o)
+port_to_mode_PGM                                  /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(pins_arduino.o)
+                                                  /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(wiring_digital.o)
+port_to_output_PGM                                /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(pins_arduino.o)
+                                                  /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(wiring_digital.o)
+resp                                              ./main.o
+response(Msg*)                                    ./main.o
+response_msg                                      ./main.o
+ros                                               ./avrRos/ros_generated.o
+                                                  ./avrRos/Ros.o
+                                                  ./main.o
+ros_getchar(__file*)                              ./avrRos_user.o
+                                                  ./avrRos/Ros.o
+ros_io                                            ./avrRos/Ros.o
+ros_putchar(char, __file*)                        ./avrRos_user.o
+                                                  ./avrRos/Ros.o
+rx_buffer                                         /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(HardwareSerial.o)
+rx_buffer1                                        /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(HardwareSerial.o)
+rx_buffer2                                        /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(HardwareSerial.o)
+rx_buffer3                                        /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(HardwareSerial.o)
+setup                                             ./main.o
+                                                  /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(main.o)
+sprintf                                           /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(sprintf.o)
+                                                  ./main.o
+std_msgs::String::String()                        ./avrRos/String.o
+std_msgs::String::String()                        ./avrRos/String.o
+                                                  ./main.o
+std_msgs::String::String(unsigned char*)          ./avrRos/String.o
+std_msgs::String::String(unsigned char*)          ./avrRos/String.o
+std_msgs::String::bytes()                         ./avrRos/String.o
+std_msgs::String::deserialize(unsigned char*)     ./avrRos/String.o
+std_msgs::String::serialize(unsigned char*)       ./avrRos/String.o
+std_msgs::String::~String()                       ./avrRos/String.o
+std_msgs::String::~String()                       ./avrRos/String.o
+                                                  ./main.o
+strcmp                                            /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(strcmp.o)
+                                                  ./avrRos/ros_generated.o
+strncpy                                           /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(strncpy.o)
+                                                  ./avrRos/ros_string.o
+strnlen                                           /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(strnlen.o)
+                                                  /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(vfprintf_std.o)
+strnlen_P                                         /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(strnlen_P.o)
+                                                  /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(vfprintf_std.o)
+timer0_millis                                     /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(wiring.o)
+timer0_overflow_count                             /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(wiring.o)
+toggle()                                          ./main.o
+vfprintf                                          /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(vfprintf_std.o)
+                                                  /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr51/libc.a(sprintf.o)
+vtable for HardwareSerial                         /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(HardwareSerial.o)
+vtable for Msg                                    ./avrRos/Msg.o
+vtable for Print                                  /media/ROBOTS/Tests_before_implement/avrBridge_1280/libArduinoMegaCore.a(Print.o)
+vtable for std_msgs::String                       ./avrRos/String.o
