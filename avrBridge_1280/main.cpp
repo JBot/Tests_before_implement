@@ -53,6 +53,8 @@ void setup(){
 
 void loop(){
 	ros.spin();
+	//float volts = 1.5;
+	//float distance = 65 * pow(volts, -1.10);
 	delay(10);
 }
 
